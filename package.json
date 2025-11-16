@@ -59,6 +59,6 @@
             "predeploy": "npm run build",
             "deploy": "gh-pages -d build"
       },
-      "homepage": "https://MusaNkosi08.github.io/Learn-Earn-Educational-App.git"
+      "homepage": "https://MusaNkosi08.github.io/Learn-Earn-Educational-App"
 
 }
